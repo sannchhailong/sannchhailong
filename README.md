@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sannchhailong
-- 👀 I’m interested in iOS developer
-- 🌱 I’m currently learning SwiftUI
-- 📫 How to reach me sann.chhailong168@gmail.com
+- 👀 I’m interested in : Not you
+- 🌱 I’m currently learning HOW TO SLEEP WITH MY EYE OPEN
+- 📫 How to reach me: ask my neighbour.
 
 <!---
 sannchhailong/sannchhailong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
